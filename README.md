@@ -2,6 +2,9 @@
 
 Welcome to my repository! Here, I document my learning journey through the fascinating world of linear algebra and its applications in data science. Linear algebra is a foundational pillar of many data science techniques, and I'm excited to explore its concepts and implementations! 🚀
 
+### Linear algebra book exercise solution
+   https://www.youtube.com/playlist?list=PLn0OLiymPak3REyB3XNqqqsRAhZ3LSEH8
+
 ## 📖 What You’ll Find Here
 
 - **Key Concepts**: A breakdown of important linear algebra concepts such as vectors, matrices, eigenvalues, and transformations.
