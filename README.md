@@ -21,4 +21,4 @@ Welcome to my repository! Here, I document my learning journey through the fasci
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/linear-algebra-for-data-science.git
+   git clone https://github.com/Joon-hub/linear-algebra-for-data-science.git
